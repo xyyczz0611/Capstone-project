@@ -1,0 +1,38 @@
+1.	Introduction
+A businessman plans to open a new restaurant in Canada. Basically, he wants the location in the east part of the country. In order to survive in the competitive catering trade, before he makes the decision, he decided to conduct a study regarding all the details, such as the location, type of the restaurant, etc.
+
+1.1	City 
+There are several large cities in the east part of Canada, such as Toronto, Montreal, and Ottawa. These cities have a large population and attract a lot of immigrants and international students as well. Therefore, a final decision will be made within these three cities.
+
+1.2	Type of the Restaurant
+As is known to all, Canada is an immigration country where immigrants are playing an increasingly important role in the community. Canada receives its immigrant population from almost 200 countries in the world. According to the official statistics in 2017[1], immigrants from China accounts for 9.1% of the Permanent Residents Admitted in 2016. Meanwhile, Canadian Bureau for International Education (CBIE) reported that nearly 500,000 international students studied in Canada at all levels in 2017, and 28% of them were from China.[2] This number is still increasing.
+Based on these two facts, a Chinese restaurant may seems to be attractive.
+
+1.3	Location
+Chinatown is the place where most Chinese immigrants and students can be expected. Therefore, the businessman decides to open the restaurant in the Chinatown. Luckily, all of the three potential cities, Toronto, Montreal, and Ottawa have Chinatowns. 
+
+1.4 Who may be interested?
+Therefore, this study will focus on the comparison of the Chinatowns in Toronto, Montreal and Ottawa. By the end of this report, a proposal will be generated to help the businessman judging a better place to open the restaurant. This study may not only be beneficial for those who want to open a restaurant or enter the catering trade, but also target other audience who may start their business in the future with potential customers being Chinese immigrants and students.
+
+
+2.	Data
+2.1 Location Data
+Firstly, the study will focus on the location. The main source of the data is Foursquare location data. The three Chinatowns in Toronto, Montreal and Ottawa will be set as the position of interest and the venues around will also be explored. Recommendations from the Foursquare may be considered as a reference. Besides, an investigation of the neighborhoods around Chinatown can also become an interesting field to explore.
+
+2.2 Immigrant (Student) Data
+Secondly, the study may focus on the people, the potential customers of the restaurant. For example, the information regarding the number of international students (suppose we can obtain the data for each city) will be useful. If multi-year data is available, then some machine learning methods (regression) may be used to predict the trend. If an increasing number of Chinese immigrants or students are moving in\out of the city, then this city may be\not be a good choice for the restaurant. 
+This part of the data may be obtained from some official or governmental website such as GIC, IRCC, or CBIE.
+
+
+
+
+
+
+
+
+
+
+
+Reference
+[1] "Citizenship and Immigration Canada, Facts and Figure".Cic.gc.ca. Citizenship and Immigration Canada. 2017. 
+[2] https://cbie.ca/media/facts-and-figures/
